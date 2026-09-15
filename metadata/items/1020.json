@@ -1,0 +1,10 @@
+{
+  "name": "Plush Pepe #1020",
+  "description": "Тестовый NFT-подарок с атрибутами, скопированными с реального Plush Pepe #1020 (Fragment).",
+  "image": "https://nft.fragment.com/gift/plushpepe-1020.medium.jpg",
+  "attributes": [
+    { "trait_type": "Model", "value": "X-Ray" },
+    { "trait_type": "Backdrop", "value": "Chocolate" },
+    { "trait_type": "Symbol", "value": "Chill" }
+  ]
+}
